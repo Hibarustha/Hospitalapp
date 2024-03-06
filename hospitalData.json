@@ -1,0 +1,21 @@
+[
+   {
+      "id":101,
+      "hospital":"Hospital A",
+      "patients":100,
+      "location":"Location A"
+   },
+   {
+      "id":102,
+      "hospital":"Hospital B",
+      "patients":95,
+      "location":"Location B"
+      },
+      {
+         "id":103,
+         "hospital":"Hospital C",
+         "patients":209,
+         "location":"Locaion C"
+         }
+      ]
+        
